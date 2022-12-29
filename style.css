@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    overflow-x: hidden;
 }
 .header{
     width: 100%;
